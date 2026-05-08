@@ -1,1 +1,0 @@
-# parkinsons-gait-detection
